@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.14 (Satellite_Super_Res)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.14 (Satellite_Super_Res)" project-jdk-type="Python SDK" />
+</project>
